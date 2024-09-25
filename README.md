@@ -41,9 +41,8 @@
 &nbsp;
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-[![Binar Academy](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbUebZ6Jcp050Tc4oEsk9PvfdObedheV9MkaSbzmR_uEqfwsneLp39hPn1Q4aJX-igDZB6G53jxGjFzGKTWqN89ZRwGdCEpRc2XYNYUuAEwPx_oQGViKPNREJYof7BnsaIR5q-LYzyCerfbsJurIilSBnmpR5yTinlBYpjPFGq8A1yuKMyeFE9zy12H5Y/s1280/D1B87AB8-DFCB-44C0-A4DC-9549F4637B29.jpeg)](https://www.binar.co.id/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
+[![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)&nbsp;
 <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
