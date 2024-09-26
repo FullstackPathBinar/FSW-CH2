@@ -24,13 +24,13 @@ function searchCountries (country){
 console.log(searchCountries("King Indo"));
 
 // Study Case Data Type - Array Filter
-const otherCountries = ["Albania", "Turkey", "Netherland", "Germany", "Spain", "England", "Albania", "Germany", "Spain"]
+const otherCountries = ["Albania", "Turkey", "Netherland", "Germany", "Spain", "England", "Albania", "Germany", "Spain","Indonesia","indonesia"]
 function filterData (){
     let dataClear = [];
     let dataDuplicate = [];
 
     for (let i = 0; i < otherCountries.length; i++){
-        const country = otherCountries[i];
+        const country = otherCountries[i].toLowerCase();
 
         if(dataClear.includes(country)){
             if(!dataDuplicate.includes(country)){
